@@ -1,0 +1,5 @@
+bank:
+  answer:
+   success: Success operation!
+   fail: Faled operation!
+  customer: notAThief
